@@ -1,12 +1,12 @@
-## Hi there 👋
+# Multimodal-video-summary-generator
+Capstone Project - Batch 26
 
-<!--
+![alt text](https://github.com/HariRaagavTR/multimodal-video-summary-generator/blob/main/images/banner.png "Recapyt Logo Banner")
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 👨‍💻 Meet the Devs
+Member | SRN | Sec 
+--- | --- | ---
+[Aryan Kumar](https://github.com/Aryan0501) | PES2UG19CS067 | B<br>
+[Geethika K](https://github.com/Geeth5) | PES2UG19CS127 | B<br>
+[Hari Raagav T R](https://github.com/HariRaagavTR) | PES2UG19CS138 | C<br>
+[Lakshmi Narayan P](https://github.com/LakshmiNarayanP) | PES2UG19CS200 | D
